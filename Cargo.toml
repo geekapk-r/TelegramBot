@@ -1,0 +1,9 @@
+[package]
+name = "geekapk_telegram_bot"
+version = "0.1.0"
+authors = ["duangsuse <fedora-opensuse@outlook.com>"]
+description = "A telegram helper bot for geekapk service"
+
+[dependencies]
+teleborg = "0.1.32"
+lazy_static= "0.2"
